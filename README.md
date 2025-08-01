@@ -30,7 +30,8 @@ conda activate fm9g4bv
 ```
 6. 使用 pip 安装 requirements.txt 中的依赖
    - 切换到FM9G4B-V目录下
-```cd FM9G4B-V
+```
+cd FM9G4B-V
 ```
    - 安装依赖环境
 ```
@@ -42,3 +43,4 @@ pip install -r requirements.txt
 九格多模态大模型的遥感影像分析与语义理解系统.html
 ```
   2. 运行九格多模态大模型的遥感影像分析与语义理解系统 
+
