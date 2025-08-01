@@ -23,7 +23,8 @@ conda create -n fm9g4bv python=3.10.16
 ```
 conda env list
 ```
-   即可找到虚拟环境路径
+即可找到虚拟环境路径
+
 5. 激活环境
 ```
 conda activate fm9g4bv 
