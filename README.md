@@ -23,18 +23,18 @@ conda create -n fm9g4bv python=3.10.16
 ```
 conda env list
 ```
-即可找到虚拟环境路径
+  即可找到虚拟环境路径
 
 5. 激活环境
 ```
 conda activate fm9g4bv 
 ```
 6. 使用 pip 安装 requirements.txt 中的依赖
-   - 切换到FM9G4B-V目录下
++ 切换到FM9G4B-V目录下
 ```
 cd FM9G4B-V
 ```
-   - 安装依赖环境
++ 安装依赖环境
 ```
 pip install -r requirements.txt
 ```
