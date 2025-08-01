@@ -16,19 +16,29 @@
 1. 安装anconda
 2. 打开Anaconda PowerShell Prompt 
 3. 创建虚拟环境
-   ''' conda create -n fm9g4bv python=3.10.16 '''
+ ```
+conda create -n fm9g4bv python=3.10.16 
+```
 4. 把模型文件复制进虚拟环境内
-   '''conda env list'''
+```
+conda env list
+```
    即可找到虚拟环境路径
 5. 激活环境
-  ''' conda activate fm9g4bv '''
+```
+conda activate fm9g4bv 
+```
 6. 使用 pip 安装 requirements.txt 中的依赖
-   1. 切换到FM9G4B-V目录下
-    '''cd FM9G4B-V'''
-   2. 安装依赖环境
-   ''' 安装依赖环境'''
+   - 切换到FM9G4B-V目录下
+```cd FM9G4B-V
+```
+   - 安装依赖环境
+```
+pip install -r requirements.txt
+```
 # 运行九格多模态大模型的遥感影像分析与语义理解系统
   1. 打开网页文件
-  '''九格多模态大模型的遥感影像分析与语义理解系统.html'''
+```
+九格多模态大模型的遥感影像分析与语义理解系统.html
+```
   2. 运行九格多模态大模型的遥感影像分析与语义理解系统 
-  
